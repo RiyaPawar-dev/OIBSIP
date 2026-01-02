@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Primary Colors -->
+    <color android:name="purple_500"
+        tools:ignore="ExtraText">#7C3AED</color>       <!-- Button gradient start -->
+    <color android:name="purple_700">#6D28D9</color>       <!-- Button gradient end -->
+    <color android:name="pink_500">#EC4899</color>         <!-- Optional gradient accent -->
+
+    <!-- Backgrounds -->
+    <color android:name="bg_light">#EFF6FF</color>
+    <color android:name="bg_card">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color android:name="text_primary">#1F2937</color>     <!-- Dark gray/black for headings -->
+    <color android:name="text_secondary">#6B7280</color>   <!-- Light gray for subtext -->
+    <color android:name="text_white">#FFFFFF</color>       <!-- White text for buttons -->
+
+    <!-- Input Field Background -->
+    <color android:name="input_bg">#F9FAFB</color>
+</resources>
